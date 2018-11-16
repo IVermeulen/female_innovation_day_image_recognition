@@ -52,6 +52,6 @@ Installing prefrequisites
 3. create a virtual env: `virtualenv venv`
 4. activate the virtual env: `source venv/bin/activate`
 5. `cd female_innovation_day_image_recognition`
-6. install the required packages in the virtual env: `pip install requirements.txt`
+6. install the required packages in the virtual env: `pip install -r requirements.txt`
 7. for using ipynb `python -m ipykernel install --user`
 8. start coding! :)
