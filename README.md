@@ -27,9 +27,8 @@ These are just some suggestions, feel free to be creative yourself and experimen
 
 Some possible starting points are provided, but feel free to experiment with anything else if you're feeling adventurous. 
 
-1. `face_detection.ipynb` provides some sample code on a face/eye detection classifier (taken from [opencv docs](https://docs.opencv.org/3.3.0/d7/d8b/tutorial_py_face_detection.html)).
+1. `face_detection.py` provides some sample code on a face/eye detection classifier (taken from [opencv docs](https://docs.opencv.org/3.3.0/d7/d8b/tutorial_py_face_detection.html)).
 2. In the `data` directory you can find some sample photos to begin experimenting with. 
-3. The `gather_data.py` file can be used There's a directory `data/subset` which contains 100 photos of different sizes to start experimenting with. The directory `data/all` contains a much larger collection of photos which can be used when you want more examples or test your code on a bigger selection of photos. 
 
 ## Prerequisites
 
